@@ -1,0 +1,57 @@
+{
+  "id": "MAP_ECRUTEAK_CITY",
+  "name": "EcruteakCity",
+  "layout": "LAYOUT_ECRUTEAK_CITY",
+  "music": "CYANWOOD",
+  "region_map_section": "MAPSEC_ECRUTEAK",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_CITY",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE38",
+      "offset": 16,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE37",
+      "offset": 30,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_ROUTE42",
+      "offset": 18,
+      "direction": "right"
+    }
+  ],
+  "object_events": [
+
+  ],
+  "warp_events": [
+    {
+      "x": 3,
+      "y": 27,
+      "elevation": 0,
+      "dest_map": "MAP_JOHTO_GATE",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 62,
+      "y": 35,
+      "elevation": 0,
+      "dest_map": "MAP_JOHTO_GATE",
+      "dest_warp_id": "4"
+    }
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+
+  ]
+}

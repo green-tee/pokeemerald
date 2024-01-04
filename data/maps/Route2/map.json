@@ -1,0 +1,101 @@
+{
+  "id": "MAP_ROUTE2",
+  "name": "Route2",
+  "layout": "LAYOUT_ROUTE2",
+  "music": "MUS_RG_ROUTE1",
+  "region_map_section": "MAPSEC_ROUTE_2",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_VIRIDIAN_CITY",
+      "offset": -28,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_PEWTER_CITY",
+      "offset": 4,
+      "direction": "up"
+    }
+  ],
+  "object_events": [
+
+  ],
+  "warp_events": [
+    {
+      "x": 7,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_KANTO_GATES",
+      "dest_warp_id": "16"
+    },
+    {
+      "x": 29,
+      "y": 59,
+      "elevation": 0,
+      "dest_map": "MAP_KANTO_GATES",
+      "dest_warp_id": "20"
+    },
+    {
+      "x": 29,
+      "y": 65,
+      "elevation": 0,
+      "dest_map": "MAP_KANTO_GATES",
+      "dest_warp_id": "21"
+    },
+    {
+      "x": 13,
+      "y": 65,
+      "elevation": 0,
+      "dest_map": "MAP_KANTO_GATES",
+      "dest_warp_id": "19"
+    },
+    {
+      "x": 28,
+      "y": 59,
+      "elevation": 0,
+      "dest_map": "MAP_KANTO_GATES",
+      "dest_warp_id": "20"
+    },
+    {
+      "x": 28,
+      "y": 65,
+      "elevation": 0,
+      "dest_map": "MAP_KANTO_GATES",
+      "dest_warp_id": "21"
+    },
+    {
+      "x": 6,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_KANTO_GATES",
+      "dest_warp_id": "16"
+    },
+    {
+      "x": 12,
+      "y": 65,
+      "elevation": 0,
+      "dest_map": "MAP_KANTO_GATES",
+      "dest_warp_id": "19"
+    },
+    {
+      "x": 26,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_DIGLETT_CAVE",
+      "dest_warp_id": "3"
+    }
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+
+  ]
+}
