@@ -794,24 +794,6 @@
       "height": 1
     },
     {
-      "map_section": "MAPSEC_ROUTE_4_POKECENTER",
-      "name": "ROUTE 4",
-      "name_clone": true,
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_ROUTE_10_POKECENTER",
-      "name": "ROUTE 10",
-      "name_clone": true,
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
       "map_section": "MAPSEC_ROUTE_1",
       "name": "ROUTE 1",
       "x": 0,
@@ -1044,15 +1026,6 @@
       "height": 1
     },
     {
-      "map_section": "MAPSEC_UNDERGROUND_PATH_2",
-      "name": "UNDERGROUND PATH",
-      "name_clone": true,
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
       "map_section": "MAPSEC_DIGLETTS_CAVE",
       "name": "DIGLETT'S CAVE",
       "x": 0,
@@ -1239,46 +1212,6 @@
       "height": 1
     },
     {
-      "map_section": "MAPSEC_THREE_ISLE_PORT",
-      "name": "THREE ISLE PORT",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_SEVII_ISLE_6",
-      "name": "SEVII ISLE 6",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_SEVII_ISLE_7",
-      "name": "SEVII ISLE 7",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_SEVII_ISLE_8",
-      "name": "SEVII ISLE 8",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_SEVII_ISLE_9",
-      "name": "SEVII ISLE 9",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
       "map_section": "MAPSEC_RESORT_GORGEOUS",
       "name": "RESORT GORGEOUS",
       "x": 0,
@@ -1375,38 +1308,6 @@
       "height": 1
     },
     {
-      "map_section": "MAPSEC_SEVII_ISLE_22",
-      "name": "SEVII ISLE 22",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_SEVII_ISLE_23",
-      "name": "SEVII ISLE 23",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_SEVII_ISLE_24",
-      "name": "SEVII ISLE 24",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_NAVEL_ROCK_FRLG",
-      "name": "NAVEL ROCK",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
       "map_section": "MAPSEC_MT_EMBER",
       "name": "MT. EMBER",
       "x": 0,
@@ -1472,14 +1373,6 @@
       "height": 1
     },
     {
-      "map_section": "MAPSEC_ALTERING_CAVE_FRLG",
-      "name": "ALTERING CAVE",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
       "map_section": "MAPSEC_TANOBY_CHAMBERS",
       "name": "TANOBY CHAMBERS",
       "x": 0,
@@ -1498,70 +1391,6 @@
     {
       "map_section": "MAPSEC_TANOBY_KEY",
       "name": "TANOBY KEY",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_BIRTH_ISLAND_FRLG",
-      "name": "BIRTH ISLAND",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_MONEAN_CHAMBER",
-      "name": "MONEAN CHAMBER",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_LIPTOO_CHAMBER",
-      "name": "LIPTOO CHAMBER",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_WEEPTH_CHAMBER",
-      "name": "WEEPTH CHAMBER",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_DILFORD_CHAMBER",
-      "name": "DILFORD CHAMBER",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_SCUFIB_CHAMBER",
-      "name": "SCUFIB CHAMBER",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_RIXY_CHAMBER",
-      "name": "RIXY CHAMBER",
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "map_section": "MAPSEC_VIAPOIS_CHAMBER",
-      "name": "VIAPOIS CHAMBER",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -1698,6 +1527,366 @@
     {
       "map_section": "MAPSEC_NAVEL_ROCK",
       "name": "NAVEL ROCK",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_100",
+      "name": "ROUTE 100",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_CROSSGATE",
+      "name": "CROSSGATE TOWN",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_GATE",
+      "name": "GATE",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_OLIVINE",
+      "name": "OLIVINE CITY",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_CYANWOOD",
+      "name": "CYANWOOD CITY",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_JOHTO_SAFARI",
+      "name": "SAFARI ZONE",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ECRUTEAK",
+      "name": "ECRUTEAK CITY",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_GOLDENROD",
+      "name": "GOLDENROD CITY",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_VIOLET",
+      "name": "VIOLET CITY",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_AZALEA",
+      "name": "AZALEA TOWN",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_MAHOGANY",
+      "name": "MAHOGANY TOWN",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_CHERRYGROVE",
+      "name": "CHERRYGROVE CITY",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_BLACKTHORN",
+      "name": "BLACKTHORN CITY",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_NEWBARK",
+      "name": "NEWBARK TOWN",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_RUINS_OF_ALPH",
+      "name": "RUINS OF ALPH",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_LAKE_OF_RAGE",
+      "name": "LAKE OF RAGE",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_MTSILVER",
+      "name": "MT. SILVER",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_MTMORTAR",
+      "name": "MT. MORTAR",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ICE_PATH",
+      "name": "ICE PATH",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_DARK_CAVE",
+      "name": "DARK CAVE",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_UNION_CAVE",
+      "name": "UNION CAVE",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ILEX_FOREST",
+      "name": "ILEX FOREST",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_26",
+      "name": "ROUTE 26",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_27",
+      "name": "ROUTE 27",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_29",
+      "name": "ROUTE 29",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_30",
+      "name": "ROUTE 30",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_31",
+      "name": "ROUTE 31",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_32",
+      "name": "ROUTE 32",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_33",
+      "name": "ROUTE 33",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_34",
+      "name": "ROUTE 34",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_35",
+      "name": "ROUTE 35",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_36",
+      "name": "ROUTE 36",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_37",
+      "name": "ROUTE 37",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_38",
+      "name": "ROUTE 38",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_39",
+      "name": "ROUTE 39",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_40",
+      "name": "ROUTE 40",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_41",
+      "name": "ROUTE 41",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_42",
+      "name": "ROUTE 42",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_43",
+      "name": "ROUTE 43",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_44",
+      "name": "ROUTE 44",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_45",
+      "name": "ROUTE 45",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_46",
+      "name": "ROUTE 46",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_47",
+      "name": "ROUTE 47",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_48",
+      "name": "ROUTE 48",
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_NATIONAL_PARK",
+      "name": "NATIONAL PARK",
       "x": 0,
       "y": 0,
       "width": 1,

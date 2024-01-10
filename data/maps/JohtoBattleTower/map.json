@@ -3,7 +3,7 @@
   "name": "JohtoBattleTower",
   "layout": "LAYOUT_JOHTO_BATTLE_TOWER",
   "music": "MUS_B_FRONTIER",
-  "region_map_section": "MAPSEC_TRAINER_TOWER",
+  "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
   "map_type": "MAP_TYPE_ROUTE",
