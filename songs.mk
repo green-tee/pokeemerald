@@ -636,7 +636,7 @@ $(MID_SUBDIR)/alph.s: %.s: %.mid
 $(MID_SUBDIR)/kimonogirl.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
 
-	$(MID_SUBDIR)/newbark.s: %.s: %.mid
+$(MID_SUBDIR)/newbark.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G034 -V099
 
 $(MID_SUBDIR)/whirl.s: %.s: %.mid
