@@ -26,7 +26,9 @@
     "gMapGroup_IndoorRoute116",
     "gMapGroup_IndoorRoute117",
     "gMapGroup_IndoorRoute121",
-    "gMapGroup_Dungeons",
+    "gMapGroup_DungeonsHoenn",
+    "gMapGroup_DungeonsKanto",
+    "gMapGroup_DungeonsJohto",
     "gMapGroup_IndoorDynamic",
     "gMapGroup_SpecialArea",
     "gMapGroup_IndoorRoute104Prototype",
@@ -409,7 +411,7 @@
   "gMapGroup_IndoorRoute121": [
     "Route121_SafariZoneEntrance"
   ],
-  "gMapGroup_Dungeons": [
+  "gMapGroup_DungeonsHoenn": [
     "MeteorFalls_1F_1R",
     "MeteorFalls_1F_2R",
     "MeteorFalls_B1F_1R",
@@ -517,7 +519,9 @@
     "TerraCave_Entrance",
     "TerraCave_End",
     "AlteringCave",
-    "MeteorFalls_StevensCave",
+    "MeteorFalls_StevensCave"
+  ],
+  "gMapGroup_DungeonsKanto": [
     "ViridianForest",
     "UndergroundPath",
     "UndergroundPathVertical",
@@ -529,7 +533,9 @@
     "MtMoonF2",
     "MtMoonF3",
     "RockTunnel",
-    "RockTunnelF1",
+    "RockTunnelF1"
+  ],
+  "gMapGroup_DungeonsJohto": [
     "MtMortarF1",
     "MtMortarF2",
     "MtMortarF3",
