@@ -427,7 +427,7 @@ $(MID_SUBDIR)/mus_rg_sevii_cave.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G147 -V090
 
 $(MID_SUBDIR)/mus_rg_sevii_dungeon.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G146 -V090
+	$(MID) $< $@ -E -R$(STD_REVERB) -G192 -V090
 
 $(MID_SUBDIR)/mus_rg_sevii_route.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G187 -V080
@@ -613,58 +613,79 @@ $(MID_SUBDIR)/route34.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G189 -V084
 
 $(MID_SUBDIR)/route29.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G034 -V099
+	$(MID) $< $@ -E -R$(STD_REVERB) -G138 -V099
 
 $(MID_SUBDIR)/elmlab.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
 
 $(MID_SUBDIR)/alphdeep.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G146 -V075
 
 $(MID_SUBDIR)/darkcave.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G165 -V075
 
 $(MID_SUBDIR)/cherrygrove.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G173 -V075
 
 $(MID_SUBDIR)/goldenrod.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G138 -V075
 
 $(MID_SUBDIR)/alph.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G146 -V075
 
 $(MID_SUBDIR)/kimonogirl.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G138 -V099
 
 $(MID_SUBDIR)/newbark.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G034 -V099
+	$(MID) $< $@ -E -R$(STD_REVERB) -G138 -V099
+
+$(MID_SUBDIR)/johtowild.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G138 -V099
+
+$(MID_SUBDIR)/jirachi.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G191 -V099
+
+$(MID_SUBDIR)/lugia.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G158 -V099
+
+$(MID_SUBDIR)/hooh.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G158 -V099
+
+$(MID_SUBDIR)/mtmoontop.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G158 -V099
+
+$(MID_SUBDIR)/rockethq.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G158 -V099
 
 $(MID_SUBDIR)/whirl.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G146 -V075
 
 $(MID_SUBDIR)/natpark.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G138 -V075
 
 $(MID_SUBDIR)/route47.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G034 -V075
+
+$(MID_SUBDIR)/dragonsden.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G173 -V100
 
 $(MID_SUBDIR)/johtosafari.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G034 -V075
 
 $(MID_SUBDIR)/route26.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G146 -V075
 
 $(MID_SUBDIR)/route30.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G138 -V075
 
 $(MID_SUBDIR)/sprouttower.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G158 -V075
 
 $(MID_SUBDIR)/tintower.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G083 -V075
 
 $(MID_SUBDIR)/burnedtower.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G160 -V075
+	$(MID) $< $@ -E -R$(STD_REVERB) -G158 -V100
 
 $(MID_SUBDIR)/mus_credits.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G101 -V100

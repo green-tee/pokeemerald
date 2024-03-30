@@ -15,7 +15,7 @@
   "connections": [
     {
       "map": "MAP_ROUTE19",
-      "offset": -11,
+      "offset": -31,
       "direction": "right"
     },
     {
@@ -28,7 +28,20 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 57,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_SEAFOAM_ISLES_F1",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 71,
+      "y": 21,
+      "elevation": 0,
+      "dest_map": "MAP_SEAFOAM_ISLES_F1",
+      "dest_warp_id": "1"
+    }
   ],
   "coord_events": [
 

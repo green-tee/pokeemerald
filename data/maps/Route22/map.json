@@ -2,7 +2,7 @@
   "id": "MAP_ROUTE22",
   "name": "Route22",
   "layout": "LAYOUT_ROUTE22",
-  "music": "MUS_RG_ROUTE3",
+  "music": "MUS_RG_VICTORY_ROAD",
   "region_map_section": "MAPSEC_ROUTE_22",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
@@ -17,6 +17,21 @@
       "map": "MAP_VIRIDIAN_CITY",
       "offset": -27,
       "direction": "right"
+    },
+    {
+      "map": "MAP_MT_SILVER_F1",
+      "offset": 0,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE26",
+      "offset": -17,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_ROUTE23",
+      "offset": -10,
+      "direction": "up"
     }
   ],
   "object_events": [

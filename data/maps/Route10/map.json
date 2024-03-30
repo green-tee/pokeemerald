@@ -37,10 +37,24 @@
     },
     {
       "x": 5,
-      "y": 39,
+      "y": 41,
       "elevation": 0,
       "dest_map": "MAP_ROCK_TUNNEL",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 15,
+      "y": 26,
+      "elevation": 0,
+      "dest_map": "MAP_POWER_PLANT",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 8,
+      "y": 22,
+      "elevation": 0,
+      "dest_map": "MAP_POWER_PLANT",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [

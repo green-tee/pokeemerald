@@ -29,14 +29,14 @@
   ],
   "warp_events": [
     {
-      "x": 59,
+      "x": 71,
       "y": 15,
       "elevation": 0,
       "dest_map": "MAP_KANTO_GATES",
       "dest_warp_id": "0"
     },
     {
-      "x": 10,
+      "x": 22,
       "y": 12,
       "elevation": 0,
       "dest_map": "MAP_DIGLETT_CAVE",

@@ -1,0 +1,54 @@
+{
+  "id": "MAP_ROUTE98",
+  "name": "Route98",
+  "layout": "LAYOUT_ROUTE98",
+  "music": "MUS_ROUTE120",
+  "region_map_section": "MAPSEC_ROUTE_98",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_OCEAN_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE119",
+      "offset": 11,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_CHERRYGROVE_CITY",
+      "offset": -6,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_NEW_BARK_TOWN",
+      "offset": 92,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE27",
+      "offset": 128,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE120",
+      "offset": 137,
+      "direction": "down"
+    }
+  ],
+  "object_events": [
+
+  ],
+  "warp_events": [
+
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+
+  ]
+}

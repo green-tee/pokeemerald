@@ -58,6 +58,13 @@
       "elevation": 0,
       "dest_map": "MAP_RUINSOF_ALPH",
       "dest_warp_id": "5"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_RUINSOF_ALPH_F3",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

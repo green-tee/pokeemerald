@@ -2306,6 +2306,35 @@ MatchCall_Text_Wallace::
 	.string "But what is a rare stone exactly?\n"
 	.string "All I can think of is a METEORITE…$"
 
+MatchCall_Text_Surge1::
+	.string "LT.SURGE: Oh, it's you!\p"
+	.string "After you left, I've been redoing\n"
+	.string "my training from scratch.\p"
+	.string "I'd say I could use a wee bit more\n"
+	.string "time to reopen my GYM.\p"
+	.string "You'll have to wait till then!$"
+
+MatchCall_Text_Surge2::
+	.string "LT.SURGE: Hey, you little tyke!\p"
+	.string "You've really done it, haven't you?\n"
+	.string "I've been getting word about you!\p"
+	.string "It seems I need to retrain some\n"
+	.string "more still.\p"
+	.string "I'd say I could use a wee bit more\n"
+	.string "time to reopen my GYM.\p"
+	.string "You'll have to wait till then!$"
+
+MatchCall_Text_Surge3::
+	.string "LT.SURGE: Oh, it's you!\n"
+	.string "My GYM's ready!\p"
+	.string "Visit VERMILION CITY anytime!\n"
+	.string "It will be Electrifying!$"
+
+MatchCall_Text_Surge4::
+	.string "LT.SURGE: Hey kid!\p"
+	.string "A battle with you is always charged\n"
+	.string "with shocking power!$"
+
 MatchCall_Text_MayRayquazaCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Beep!\p"

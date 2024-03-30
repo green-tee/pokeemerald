@@ -560,6 +560,14 @@
 #define SPROUTTOWER                 627
 #define TINTOWER                    628
 #define BURNEDTOWER                 629
+#define DRAGONSDEN                  630
+#define LUGIA                       631
+#define HOOH                        632
+#define MTMOONTOP                   633
+#define ROCKETHQ                    634
+#define GSVICTORYROAD               635
+#define JOHTOWILD                   636
+#define JIRACHI                     637
 
 #define MUS_ROUTE118                0x7FFF  // Map is split into 2 music sections. controlled by GetCurrLocationDefaultMusic().
 

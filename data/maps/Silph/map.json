@@ -1,0 +1,153 @@
+{
+  "id": "MAP_SILPH",
+  "name": "Silph",
+  "layout": "LAYOUT_SILPH",
+  "music": "MUS_RG_SILPH",
+  "region_map_section": "MAPSEC_SILPH_CO",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_INDOOR",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": false,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": 0,
+  "object_events": [
+
+  ],
+  "warp_events": [
+    {
+      "x": 31,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH_F2",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 28,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 31,
+      "y": 35,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 28,
+      "y": 35,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "4"
+    },
+    {
+      "x": 22,
+      "y": 68,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "3"
+    },
+    {
+      "x": 19,
+      "y": 68,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH_F1",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "7"
+    },
+    {
+      "x": 13,
+      "y": 71,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "6"
+    },
+    {
+      "x": 2,
+      "y": 40,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "9"
+    },
+    {
+      "x": 6,
+      "y": 21,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "8"
+    },
+    {
+      "x": 33,
+      "y": 40,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "11"
+    },
+    {
+      "x": 27,
+      "y": 91,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH",
+      "dest_warp_id": "10"
+    },
+    {
+      "x": 16,
+      "y": 49,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH_F1",
+      "dest_warp_id": "9"
+    },
+    {
+      "x": 2,
+      "y": 51,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH_F1",
+      "dest_warp_id": "10"
+    },
+    {
+      "x": 4,
+      "y": 58,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH_F1",
+      "dest_warp_id": "11"
+    },
+    {
+      "x": 23,
+      "y": 3,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH_ELEVATOR",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 23,
+      "y": 37,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH_ELEVATOR",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 29,
+      "y": 70,
+      "elevation": 0,
+      "dest_map": "MAP_SILPH_ELEVATOR",
+      "dest_warp_id": "0"
+    }
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+
+  ]
+}

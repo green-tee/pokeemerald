@@ -806,7 +806,10 @@ const u8 gInitialMovementTypeFacingDirections[] = {
 #define OBJ_EVENT_PAL_TAG_SPORT_BALL              0x1077
 #define OBJ_EVENT_PAL_TAG_PARK_BALL               0x1076
 #define OBJ_EVENT_PAL_TAG_CHERISH_BALL            0x1075
-#define OBJ_EVENT_PAL_TAG_NONE                    0x11FF
+#define OBJ_EVENT_PAL_TAG_ROCKET_REFLECTION       0x11FD
+#define OBJ_EVENT_PAL_TAG_ROCKET                  0x11FE
+#define OBJ_EVENT_PAL_TAG_SURGE                   0x11FF
+#define OBJ_EVENT_PAL_TAG_NONE                    0x1200
 
 #include "data/field_effects/field_effect_object_template_pointers.h"
 #include "data/object_events/object_event_pic_tables.h"
@@ -820,9 +823,12 @@ static const struct SpritePalette sObjectEventSpritePalettes[] = {
     {gObjectEventPal_Npc1,                  OBJ_EVENT_PAL_TAG_NPC_1},
     {gObjectEventPal_Npc2,                  OBJ_EVENT_PAL_TAG_NPC_2},
     {gObjectEventPal_Npc3,                  OBJ_EVENT_PAL_TAG_NPC_3},
+    {gObjectEventPal_Rocket,                OBJ_EVENT_PAL_TAG_ROCKET},
+    {gObjectEventPal_Surge,                 OBJ_EVENT_PAL_TAG_SURGE},
     {gObjectEventPal_Npc4,                  OBJ_EVENT_PAL_TAG_NPC_4},
     {gObjectEventPal_Npc1Reflection,        OBJ_EVENT_PAL_TAG_NPC_1_REFLECTION},
     {gObjectEventPal_Npc2Reflection,        OBJ_EVENT_PAL_TAG_NPC_2_REFLECTION},
+    {gObjectEventPal_RocketReflection,      OBJ_EVENT_PAL_TAG_ROCKET_REFLECTION},
     {gObjectEventPal_Npc3Reflection,        OBJ_EVENT_PAL_TAG_NPC_3_REFLECTION},
     {gObjectEventPal_Npc4Reflection,        OBJ_EVENT_PAL_TAG_NPC_4_REFLECTION},
     {gObjectEventPal_Brendan,               OBJ_EVENT_PAL_TAG_BRENDAN},

@@ -23,7 +23,34 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 85,
+      "y": 38,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE47F1",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 65,
+      "y": 37,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE47F2",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 65,
+      "y": 31,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE47F2",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 66,
+      "y": 51,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE47F2",
+      "dest_warp_id": "2"
+    }
   ],
   "coord_events": [
 

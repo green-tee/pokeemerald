@@ -889,9 +889,20 @@
 #define OBJ_EVENT_GFX_CHERISH_BALL               679
 #define OBJ_EVENT_GFX_EXPANDING_SPARKLE          680
 
-#endif
 
-#define NUM_OBJ_EVENT_GFX                        681
+#endif
+#define OBJ_EVENT_GFX_ROCKET                     681
+#define OBJ_EVENT_GFX_CHANNELER                  682
+#define OBJ_EVENT_GFX_SAGE                       683
+#define OBJ_EVENT_GFX_SURGE                      684
+#define OBJ_EVENT_GFX_BLAINE                     685
+#define OBJ_EVENT_GFX_SABRINA                    686
+#define OBJ_EVENT_GFX_ERIKA                      687
+#define OBJ_EVENT_GFX_KOGA                       688
+#define OBJ_EVENT_GFX_GIOVANNI                   689
+#define OBJ_EVENT_GFX_BROCK                      690
+#define OBJ_EVENT_GFX_OAK                        691
+#define NUM_OBJ_EVENT_GFX                        692
 
 
 // These are dynamic object gfx ids.

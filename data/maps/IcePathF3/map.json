@@ -36,42 +36,14 @@
       "y": 12,
       "elevation": 0,
       "dest_map": "MAP_ICE_PATH_F4",
-      "dest_warp_id": "1"
-    },
-    {
-      "x": 17,
-      "y": 16,
-      "elevation": 0,
-      "dest_map": "MAP_ICE_PATH_F2",
-      "dest_warp_id": "4"
-    },
-    {
-      "x": 7,
-      "y": 16,
-      "elevation": 0,
-      "dest_map": "MAP_ICE_PATH_F2",
-      "dest_warp_id": "5"
-    },
-    {
-      "x": 9,
-      "y": 7,
-      "elevation": 0,
-      "dest_map": "MAP_ICE_PATH_F2",
-      "dest_warp_id": "6"
-    },
-    {
-      "x": 17,
-      "y": 5,
-      "elevation": 0,
-      "dest_map": "MAP_ICE_PATH_F2",
-      "dest_warp_id": "7"
+      "dest_warp_id": "0"
     },
     {
       "x": 45,
       "y": 5,
       "elevation": 0,
       "dest_map": "MAP_ICE_PATH_F4",
-      "dest_warp_id": "0"
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [

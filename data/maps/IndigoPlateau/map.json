@@ -15,7 +15,7 @@
   "connections": [
     {
       "map": "MAP_ROUTE23",
-      "offset": 3,
+      "offset": -1,
       "direction": "down"
     }
   ],
@@ -23,7 +23,13 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 14,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_INDIGO_PLATEAU_F1",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 

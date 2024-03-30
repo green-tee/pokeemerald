@@ -333,6 +333,11 @@ const u8 gText_MatchCallTheBigHit_Brawly_Pokemon[] = _("FIGHTING POKéMON rule!"
 const u8 gText_MatchCallTheBigHit_Brawly_Intro1[] = _("The world awaits me as the");
 const u8 gText_MatchCallTheBigHit_Brawly_Intro2[] = _("next big wave!");
 
+const u8 gText_MatchCallLightning_American_Surge_Strategy[] = _("Striking like a Thunder!");
+const u8 gText_MatchCallLightning_American_Surge_Pokemon[] = _("ELCTRC-type saved me at war!");
+const u8 gText_MatchCallLightning_American_Surge_Intro1[] = _("Accept challenges so that you");
+const u8 gText_MatchCallLightning_American_Surge_Intro2[] = _("feel exhilaration of victory!");
+
 const u8 gText_MatchCallSwellShock_Wattson_Strategy[] = _("I choose to electrify.");
 const u8 gText_MatchCallSwellShock_Wattson_Pokemon[] = _("Get shocked by electricity!");
 const u8 gText_MatchCallSwellShock_Wattson_Intro1[] = _("One must never throw a");
@@ -457,6 +462,7 @@ const u8 *const gMatchCallFlavorTexts[REMATCH_TABLE_ENTRIES][CHECK_PAGE_ENTRY_CO
     [REMATCH_WALLY_VR] = MCFLAVOR(PkmnTrainer_Wally),
     [REMATCH_ROXANNE] = MCFLAVOR(RockinWhiz_Roxanne),
     [REMATCH_BRAWLY] = MCFLAVOR(TheBigHit_Brawly),
+    [REMATCH_SURGE] = MCFLAVOR(Lightning_American_Surge),
     [REMATCH_WATTSON] = MCFLAVOR(SwellShock_Wattson),
     [REMATCH_FLANNERY] = MCFLAVOR(PassionBurn_Flannery),
     [REMATCH_NORMAN] = MCFLAVOR(ReliableOne_Dad),

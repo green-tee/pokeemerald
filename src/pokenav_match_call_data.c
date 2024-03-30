@@ -34,13 +34,13 @@ typedef struct MatchCallTextDataStruct {
 
 struct MatchCallStructCommon {
     u8 type;
-    u8 mapSec;
+    u16 mapSec;
     u16 flag;
 };
 
 struct MatchCallStructNPC {
     u8 type;
-    u8 mapSec;
+    u16 mapSec;
     u16 flag;
     const u8 *desc;
     const u8 *name;
@@ -50,7 +50,7 @@ struct MatchCallStructNPC {
 // Shared by MC_TYPE_TRAINER and MC_TYPE_LEADER
 struct MatchCallStructTrainer {
     u8 type;
-    u8 mapSec;
+    u16 mapSec;
     u16 flag;
     u16 rematchTableIdx;
     const u8 *desc;
@@ -60,12 +60,12 @@ struct MatchCallStructTrainer {
 
 struct MatchCallLocationOverride {
     u16 flag;
-    u8 mapSec;
+    u16 mapSec;
 };
 
 struct MatchCallWally {
     u8 type;
-    u8 mapSec;
+    u16 mapSec;
     u16 flag;
     u16 rematchTableIdx;
     const u8 *desc;
@@ -75,7 +75,7 @@ struct MatchCallWally {
 
 struct MatchCallBirch {
     u8 type;
-    u8 mapSec;
+    u16 mapSec;
     u16 flag;
     const u8 *desc;
     const u8 *name;
@@ -575,6 +575,25 @@ static const struct MatchCallStructTrainer sWallaceMatchCallHeader =
     .desc = gText_ChampionMatchCallDesc,
     .name = NULL,
     .textData = sWallaceTextScripts
+};
+
+static const match_call_text_data_t sSurgeTextScripts[] = {
+    { MatchCall_Text_Surge1, 0xFFFE,              0xFFFF },
+    { MatchCall_Text_Surge2, 0xFFFF,              0xFFFF },
+    { MatchCall_Text_Surge3, 0xFFFF,              0xFFFF },
+    { MatchCall_Text_Surge4, FLAG_SYS_GAME_CLEAR, 0xFFFF },
+    { NULL,                   0xFFFF,              0xFFFF }
+};
+
+static const struct MatchCallStructTrainer sSurgeMatchCallHeader =
+{
+    .type = MC_TYPE_LEADER,
+    .mapSec = MAPSEC_VERMILION_CITY,
+    .flag = FLAG_UNUSED_0x4B6,
+    .rematchTableIdx = REMATCH_SURGE,
+    .desc = gText_SurgeMatchCallDesc,
+    .name = NULL,
+    .textData = sSurgeTextScripts
 };
 
 static const match_call_t sMatchCallHeaders[] = {

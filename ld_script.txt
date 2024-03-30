@@ -1208,6 +1208,14 @@ SECTIONS {
         sound/songs/midi/sprouttower.o(.rodata);
         sound/songs/midi/burnedtower.o(.rodata);
         sound/songs/midi/tintower.o(.rodata);
+        sound/songs/midi/dragonsden.o(.rodata);
+        sound/songs/midi/lugia.o(.rodata);
+        sound/songs/midi/hooh.o(.rodata);
+        sound/songs/midi/mtmoontop.o(.rodata);
+        sound/songs/midi/rockethq.o(.rodata);
+        sound/songs/midi/gsvictoryroad.o(.rodata);
+        sound/songs/midi/johtowild.o(.rodata);
+        sound/songs/midi/jirachi.o(.rodata);
         sound/songs/midi/ph_trap_blend.o(.rodata);
         sound/songs/midi/ph_trap_held.o(.rodata);
         sound/songs/midi/ph_trap_solo.o(.rodata);

@@ -244,15 +244,20 @@
 #define MAPSEC_DRAGONSDEN                   0xF1
 #define MAPSEC_BLACKTHORN                   0xF2
 #define MAPSEC_MTMORTAR                     0xF3
-#define MAPSEC_NONE                         0xF4
+#define MAPSEC_TOHJO_FALLS                  0xF4
+#define MAPSEC_OLIVINE_LIGHTHOUSE           0xF5
+#define MAPSEC_JOHTO_ROCKET_HIDEOUT         0xF6
+#define MAPSEC_ROUTE_99                     0xF7
+#define MAPSEC_ROUTE_98                     0xF8
+#define MAPSEC_NONE                         0xF9
 
 
 #define METLOC_SPECIAL_EGG                  0xFD
 #define METLOC_IN_GAME_TRADE                0xFE
 #define METLOC_FATEFUL_ENCOUNTER            0xFF
 
-#define KANTO_MAPSEC_START  MAPSEC_PALLET_TOWN
-#define KANTO_MAPSEC_END    MAPSEC_SPECIAL_AREA
-#define KANTO_MAPSEC_COUNT (KANTO_MAPSEC_END - KANTO_MAPSEC_START + 1)
+// #define KANTO_MAPSEC_START  MAPSEC_PALLET_TOWN
+// #define KANTO_MAPSEC_END    MAPSEC_SPECIAL_AREA
+// #define KANTO_MAPSEC_COUNT (KANTO_MAPSEC_END - KANTO_MAPSEC_START + 1)
 
 #endif //GUARD_REGIONMAPSEC_H

@@ -20,15 +20,33 @@
     },
     {
       "map": "MAP_ROUTE26",
-      "offset": -91,
+      "offset": -83,
       "direction": "right"
+    },
+    {
+      "map": "MAP_ROUTE98",
+      "offset": -128,
+      "direction": "down"
     }
   ],
   "object_events": [
 
   ],
   "warp_events": [
-
+    {
+      "x": 36,
+      "y": 13,
+      "elevation": 0,
+      "dest_map": "MAP_TOHJO_FALLS",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 51,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_TOHJO_FALLS",
+      "dest_warp_id": "1"
+    }
   ],
   "coord_events": [
 

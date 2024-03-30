@@ -15,8 +15,18 @@
   "connections": [
     {
       "map": "MAP_ROUTE27",
-      "offset": 91,
+      "offset": 83,
       "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE22",
+      "offset": 17,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_MT_SILVER_F1",
+      "offset": -49,
+      "direction": "up"
     }
   ],
   "object_events": [

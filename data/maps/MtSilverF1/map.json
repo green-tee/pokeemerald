@@ -17,6 +17,21 @@
       "map": "MAP_MT_SILVER_F2",
       "offset": 0,
       "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE22",
+      "offset": 0,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_ROUTE23",
+      "offset": 56,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE26",
+      "offset": 49,
+      "direction": "down"
     }
   ],
   "object_events": [

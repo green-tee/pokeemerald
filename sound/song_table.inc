@@ -631,6 +631,14 @@ gSongTable::
 	song sprouttower, 0, 0
 	song tintower, 0, 0
 	song burnedtower, 0, 0
+	song dragonsden, 0, 0
+	song lugia, 0, 0
+	song hooh, 0, 0
+	song mtmoontop, 0, 0
+	song rockethq, 0, 0
+	song gsvictoryroad, 0, 0
+	song johtowild, 0, 0
+	song jirachi, 0, 0
 
 	.align 2
 dummy_song_header:
