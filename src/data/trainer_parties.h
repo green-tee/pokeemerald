@@ -3443,6 +3443,175 @@ static const struct TrainerMonItemCustomMoves sParty_Wattson1[] = {
     }
 };
 
+static const struct TrainerMonItemCustomMoves sParty_Falkner1[] = {
+    {
+    .iv = 220,
+    .lvl = 9,
+    .species = SPECIES_PIDGEY,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_SAND_ATTACK, MOVE_TACKLE}
+    },
+    {
+    .iv = 250,
+    .lvl = 25,
+    .species = SPECIES_PIDGEOTTO,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_TACKLE, MOVE_MUD_SLAP, MOVE_GUST}
+    }
+};
+
+static const struct TrainerMonItemCustomMoves sParty_Falkner2[] = {
+    {
+    .iv = 255,
+    .lvl = 36,
+    .species = SPECIES_DODUO,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_SUPERPOWER, MOVE_BOUNCE, MOVE_ATTRACT, MOVE_QUICK_ATTACK}
+    },
+    {
+    .iv = 255,
+    .lvl = 36,
+    .species = SPECIES_HOOTHOOT,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_WING_ATTACK, MOVE_SHADOW_BALL, MOVE_SWORDS_DANCE, MOVE_MUD_SLAP}
+    },
+    {
+    .iv = 255,
+    .lvl = 38,
+    .species = SPECIES_FEAROW,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_PROTECT, MOVE_DOUBLE_TEAM, MOVE_FACADE, MOVE_ENDEAVOR}
+    },
+    {
+    .iv = 255,
+    .lvl = 40,
+    .species = SPECIES_PIDGEOTTO,
+    .heldItem = ITEM_SITRUS_BERRY,
+    .moves = {MOVE_RETURN, MOVE_DOUBLE_TEAM, MOVE_SWAGGER, MOVE_WING_ATTACK}
+    }
+};
+
+static const struct TrainerMonItemCustomMoves sParty_Falkner3[] = {
+    {
+    .iv = 255,
+    .lvl = 39,
+    .species = SPECIES_DODRIO,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_SUPERPOWER, MOVE_BOUNCE, MOVE_ATTRACT, MOVE_QUICK_ATTACK}
+    },
+    {
+    .iv = 255,
+    .lvl = 41,
+    .species = SPECIES_NOCTOWL,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_WING_ATTACK, MOVE_SHADOW_BALL, MOVE_SWORDS_DANCE, MOVE_MUD_SLAP}
+    },
+    {
+    .iv = 255,
+    .lvl = 41,
+    .species = SPECIES_SWELLOW,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_PROTECT, MOVE_DOUBLE_TEAM, MOVE_FACADE, MOVE_ENDEAVOR}
+    },
+    {
+    .iv = 255,
+    .lvl = 43,
+    .species = SPECIES_PELIPPER,
+    .heldItem = ITEM_SITRUS_BERRY,
+    .moves = {MOVE_SURF, MOVE_ICE_BEAM, MOVE_HIDDEN_POWER, MOVE_PROTECT}
+    },
+    {
+    .iv = 255,
+    .lvl = 45,
+    .species = SPECIES_PIDGEOT,
+    .heldItem = ITEM_SITRUS_BERRY,
+    .moves = {MOVE_RETURN, MOVE_DOUBLE_TEAM, MOVE_SWAGGER, MOVE_WING_ATTACK}
+    }
+};
+
+static const struct TrainerMonItemCustomMoves sParty_Falkner4[] = {
+    {
+    .iv = 255,
+    .lvl = 46,
+    .species = SPECIES_DODRIO,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_SUPERPOWER, MOVE_BOUNCE, MOVE_ATTRACT, MOVE_QUICK_ATTACK}
+    },
+    {
+    .iv = 255,
+    .lvl = 44,
+    .species = SPECIES_NOCTOWL,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_WING_ATTACK, MOVE_SHADOW_BALL, MOVE_SWORDS_DANCE, MOVE_MUD_SLAP}
+    },
+    {
+    .iv = 255,
+    .lvl = 42,
+    .species = SPECIES_SWELLOW,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_PROTECT, MOVE_DOUBLE_TEAM, MOVE_FACADE, MOVE_ENDEAVOR}
+    },
+    {
+    .iv = 255,
+    .lvl = 42,
+    .species = SPECIES_PELIPPER,
+    .heldItem = ITEM_SITRUS_BERRY,
+    .moves = {MOVE_SURF, MOVE_ICE_BEAM, MOVE_HIDDEN_POWER, MOVE_PROTECT}
+    },
+    {
+    .iv = 255,
+    .lvl = 46,
+    .species = SPECIES_PIDGEOT,
+    .heldItem = ITEM_SITRUS_BERRY,
+    .moves = {MOVE_RETURN, MOVE_DOUBLE_TEAM, MOVE_SWAGGER, MOVE_WING_ATTACK}
+    }
+};
+
+static const struct TrainerMonItemCustomMoves sParty_Falkner5[] = {
+    {
+    .iv = 255,
+    .lvl = 50,
+    .species = SPECIES_DODRIO,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_SUPERPOWER, MOVE_BOUNCE, MOVE_ATTRACT, MOVE_QUICK_ATTACK}
+    },
+    {
+    .iv = 255,
+    .lvl = 52,
+    .species = SPECIES_NOCTOWL,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_WING_ATTACK, MOVE_SHADOW_BALL, MOVE_SWORDS_DANCE, MOVE_MUD_SLAP}
+    },
+    {
+    .iv = 255,
+    .lvl = 52,
+    .species = SPECIES_SWELLOW,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_PROTECT, MOVE_DOUBLE_TEAM, MOVE_FACADE, MOVE_ENDEAVOR}
+    },
+    {
+    .iv = 255,
+    .lvl = 53,
+    .species = SPECIES_ALTARIA,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_OUTRAGE, MOVE_TWISTER, MOVE_WING_ATTACK, MOVE_RAIN_DANCE}
+    },
+    {
+    .iv = 255,
+    .lvl = 53,
+    .species = SPECIES_PELIPPER,
+    .heldItem = ITEM_SITRUS_BERRY,
+    .moves = {MOVE_SURF, MOVE_ICE_BEAM, MOVE_HIDDEN_POWER, MOVE_PROTECT}
+    },
+    {
+    .iv = 255,
+    .lvl = 56,
+    .species = SPECIES_PIDGEOTTO,
+    .heldItem = ITEM_SITRUS_BERRY,
+    .moves = {MOVE_RETURN, MOVE_DOUBLE_TEAM, MOVE_SWAGGER, MOVE_WING_ATTACK}
+    }
+};
+
 static const struct TrainerMonItemCustomMoves sParty_Surge1[] = {
     {
     .iv = 200,

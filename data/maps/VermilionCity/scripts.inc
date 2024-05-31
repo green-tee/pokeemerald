@@ -16,5 +16,12 @@ VermilionCity_OnTransition:
 	release
 	end
 
+VermilionCity_Truck::
+	warp MAP_VERMILION_TRUCK, 4, 2,
+	setdynamicwarp MAP_VERMILION_CITY, 40, 42
+	waitstate
+	release
+	end
+
 Vermilion_Machop_Text:
 	.string "MACHOP: Chop chop!$"

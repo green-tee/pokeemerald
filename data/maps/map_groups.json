@@ -101,7 +101,10 @@
     "CrossgateTown",
     "CrossgateTown_Harbor",
     "Route99",
-    "Route98"
+    "Route98",
+    "Route104a",
+    "Route115a",
+    "Route115b"
   ],
   "gMapGroup_TownsAndRoutesKanto": [
     "VermilionCity",
@@ -136,7 +139,8 @@
     "Route2",
     "Route3",
     "Route22",
-    "PewterCity"
+    "PewterCity",
+    "BillsGarden"
   ],
   "gMapGroup_TownsAndRoutesJohto": [
     "OlivineCity",
@@ -306,7 +310,8 @@
     "VioletMart",
     "VioletSchool",
     "VioletInteriors",
-    "VioletGym"
+    "VioletGym",
+    "VioletGym1"
   ],
   "gMapGroup_IndoorSlateport": [
     "SlateportCity_SternsShipyard_1F",
@@ -350,7 +355,8 @@
     "GoldenrodGym",
     "GoldenrodBikeShop",
     "GoldenrodFlowerShop",
-    "GoldenrodInteriors"
+    "GoldenrodInteriors",
+    "VermilionTruck"
   ],
   "gMapGroup_IndoorMauville": [
     "MauvilleCity_Gym",
@@ -511,7 +517,10 @@
   ],
   "gMapGroup_IndoorRoute104": [
     "Route104_MrBrineysHouse",
-    "Route104_PrettyPetalFlowerShop"
+    "Route104_PrettyPetalFlowerShop",
+    "Route25Indoor",
+    "BillsMachine",
+    "BillsHouse"
   ],
   "gMapGroup_IndoorRoute111": [
     "Route111_WinstrateFamilysHouse",
@@ -691,7 +700,9 @@
     "RocketHideoutF2",
     "RocketHideoutF3",
     "RocketHideoutF4",
-    "LavenderTowerF1"
+    "LavenderTowerF1",
+    "SilverRoom",
+    "FarOffCave"
   ],
   "gMapGroup_DungeonsJohto": [
     "MtMortarF1",

@@ -338,6 +338,11 @@ const u8 gText_MatchCallLightning_American_Surge_Pokemon[] = _("ELCTRC-type save
 const u8 gText_MatchCallLightning_American_Surge_Intro1[] = _("Accept challenges so that you");
 const u8 gText_MatchCallLightning_American_Surge_Intro2[] = _("feel exhilaration of victory!");
 
+const u8 gText_MatchCallBirdmaster_Falkner_Strategy[] = _("Fighting Fire with Flyer!");
+const u8 gText_MatchCallBirdmaster_Falkner_Pokemon[] = _("Elegantly wheeling BIRDS.");
+const u8 gText_MatchCallBirdmaster_Falkner_Intro1[] = _("I'll show you the real power");
+const u8 gText_MatchCallBirdmaster_Falkner_Intro2[] = _("of magnificent bird Pokémon!");
+
 const u8 gText_MatchCallSwellShock_Wattson_Strategy[] = _("I choose to electrify.");
 const u8 gText_MatchCallSwellShock_Wattson_Pokemon[] = _("Get shocked by electricity!");
 const u8 gText_MatchCallSwellShock_Wattson_Intro1[] = _("One must never throw a");
@@ -463,6 +468,7 @@ const u8 *const gMatchCallFlavorTexts[REMATCH_TABLE_ENTRIES][CHECK_PAGE_ENTRY_CO
     [REMATCH_ROXANNE] = MCFLAVOR(RockinWhiz_Roxanne),
     [REMATCH_BRAWLY] = MCFLAVOR(TheBigHit_Brawly),
     [REMATCH_SURGE] = MCFLAVOR(Lightning_American_Surge),
+    [REMATCH_FALKNER] = MCFLAVOR(Birdmaster_Falkner),
     [REMATCH_WATTSON] = MCFLAVOR(SwellShock_Wattson),
     [REMATCH_FLANNERY] = MCFLAVOR(PassionBurn_Flannery),
     [REMATCH_NORMAN] = MCFLAVOR(ReliableOne_Dad),

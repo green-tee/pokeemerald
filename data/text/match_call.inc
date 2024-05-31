@@ -2306,6 +2306,32 @@ MatchCall_Text_Wallace::
 	.string "But what is a rare stone exactly?\n"
 	.string "All I can think of is a METEORITE…$"
 
+MatchCall_Text_Falkner1::
+	.string "FALKNER: Hello, {PLAYER}!\p"
+	.string "Thanks to our battle, I've come\n"
+	.string "to understand my weak points!\p"
+	.string "When I reopen the GYM, I won't go\n"
+	.string "down in defeat again!$"
+
+MatchCall_Text_Falkner2::
+	.string "FALKNER: You've done it, {PLAYER}!\p"
+	.string "News about the new CHAMPION\n"
+	.string "has reached us in FORTREE!\p"
+	.string "But… The next time we battle,\n"
+	.string "it's not going to end the same way.$"
+
+MatchCall_Text_Falkner3::
+	.string "FALKNER: Is this {PLAYER}?\n"
+	.string "Our GYM is back in operation!\p"
+	.string "We're waiting for you in FORTREE!$"
+
+MatchCall_Text_Falkner4::
+	.string "FALKNER: {PLAYER}…\n"
+	.string "Though I have lost, my wings will\l"
+	.string "never break.\p"
+	.string "Yes, in exactly the same way that\n"
+	.string "you never lost sight of your dream.$"
+
 MatchCall_Text_Surge1::
 	.string "LT.SURGE: Oh, it's you!\p"
 	.string "After you left, I've been redoing\n"

@@ -182,6 +182,10 @@ static const union AnimCmd *const sAnims_LeaderSurge[] ={
     sAnim_GeneralFrame0,
 };
 
+static const union AnimCmd *const sAnims_LeaderFalkner[] ={
+    sAnim_GeneralFrame0,
+};
+
 static const union AnimCmd *const sAnims_LeaderWinona[] ={
     sAnim_GeneralFrame0,
 };

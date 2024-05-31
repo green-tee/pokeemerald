@@ -902,7 +902,46 @@
 #define OBJ_EVENT_GFX_GIOVANNI                   689
 #define OBJ_EVENT_GFX_BROCK                      690
 #define OBJ_EVENT_GFX_OAK                        691
-#define NUM_OBJ_EVENT_GFX                        692
+#define OBJ_EVENT_GFX_FUJI                       692
+#define OBJ_EVENT_GFX_MISTY                      693
+#define OBJ_EVENT_GFX_COLEMAN                    694
+#define OBJ_EVENT_GFX_CAIN                       695
+#define OBJ_EVENT_GFX_JAMES                      696
+#define OBJ_EVENT_GFX_JESSIE                     697
+#define OBJ_EVENT_GFX_ROCKETF                    698
+#define OBJ_EVENT_GFX_BUTCH                      699
+#define OBJ_EVENT_GFX_CASSIDY                    700
+#define OBJ_EVENT_GFX_SILVER                     701
+#define OBJ_EVENT_GFX_ARIANA                     702
+#define OBJ_EVENT_GFX_ARCHER                     703
+#define OBJ_EVENT_GFX_DAISY                      704
+#define OBJ_EVENT_GFX_REDMOM                     705
+#define OBJ_EVENT_GFX_GOLDMOM                    706
+#define OBJ_EVENT_GFX_ELM                        707
+#define OBJ_EVENT_GFX_GOLD                       708
+#define OBJ_EVENT_GFX_AGATHA                     709
+#define OBJ_EVENT_GFX_BRUNO                      710
+#define OBJ_EVENT_GFX_LORELEI                    711
+#define OBJ_EVENT_GFX_LANCE                      712
+#define OBJ_EVENT_GFX_BILL                       713
+#define OBJ_EVENT_GFX_TUBER_F_SWIMMING           714
+#define OBJ_EVENT_GFX_BLUE                       715
+#define OBJ_EVENT_GFX_FALKNER                    716
+#define OBJ_EVENT_GFX_CLAIR                      717
+#define OBJ_EVENT_GFX_PRYCE                      718
+#define OBJ_EVENT_GFX_MORTY                      719
+#define OBJ_EVENT_GFX_KIMONOBLACK                720
+#define OBJ_EVENT_GFX_KIMONOBLUE                 721
+#define OBJ_EVENT_GFX_KIMONOPURPLE               722
+#define OBJ_EVENT_GFX_KIMONORED                  723
+#define OBJ_EVENT_GFX_KIMONOYELLOW               724
+#define OBJ_EVENT_GFX_JASMINE                    725
+#define OBJ_EVENT_GFX_CHUCK                      726
+#define OBJ_EVENT_GFX_WHITNEY                    727
+#define OBJ_EVENT_GFX_BUGSY                      728
+#define OBJ_EVENT_GFX_KURT                       729
+#define OBJ_EVENT_GFX_EUSINE                     730
+#define NUM_OBJ_EVENT_GFX                        731
 
 
 // These are dynamic object gfx ids.

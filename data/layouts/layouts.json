@@ -4524,7 +4524,7 @@
     {
       "id": "LAYOUT_ROUTE25",
       "name": "Route25_Layout",
-      "width": 126,
+      "width": 150,
       "height": 32,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Mauville",
@@ -4815,7 +4815,7 @@
       "id": "LAYOUT_ROUTE41",
       "name": "Route41_Layout",
       "width": 62,
-      "height": 64,
+      "height": 104,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_BattleFrontierOutsideWest",
       "border_filepath": "data/layouts/Route41/border.bin",
@@ -5564,10 +5564,10 @@
     {
       "id": "LAYOUT_SPROUT_TOWER",
       "name": "SproutTower_Layout",
-      "width": 20,
-      "height": 56,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Pacifidlog",
+      "width": 28,
+      "height": 85,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BattleArena",
       "border_filepath": "data/layouts/SproutTower/border.bin",
       "blockdata_filepath": "data/layouts/SproutTower/map.bin"
     },
@@ -6474,7 +6474,7 @@
     {
       "id": "LAYOUT_ROCKET_HIDEOUT_F4",
       "name": "RocketHideoutF4_Layout",
-      "width": 24,
+      "width": 27,
       "height": 26,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_Facility",
@@ -6914,8 +6914,8 @@
     {
       "id": "LAYOUT_ELM_LAB",
       "name": "ElmLab_Layout",
-      "width": 13,
-      "height": 13,
+      "width": 11,
+      "height": 12,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_Lab",
       "border_filepath": "data/layouts/ElmLab/border.bin",
@@ -6927,7 +6927,7 @@
       "width": 11,
       "height": 22,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/NewbarkInteriors/border.bin",
       "blockdata_filepath": "data/layouts/NewbarkInteriors/map.bin"
     },
@@ -7580,6 +7580,116 @@
       "secondary_tileset": "gTileset_Facility",
       "border_filepath": "data/layouts/LavenderTowerF1/border.bin",
       "blockdata_filepath": "data/layouts/LavenderTowerF1/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_TRUCK",
+      "name": "VermilionTruck_Layout",
+      "width": 5,
+      "height": 5,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_InsideOfTruck",
+      "border_filepath": "data/layouts/VermilionTruck/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionTruck/map.bin"
+    },
+    {
+      "id": "LAYOUT_SILVER_ROOM",
+      "name": "SilverRoom_Layout",
+      "width": 15,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/SilverRoom/border.bin",
+      "blockdata_filepath": "data/layouts/SilverRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_GYM1",
+      "name": "VioletGym1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/VioletGym1/border.bin",
+      "blockdata_filepath": "data/layouts/VioletGym1/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE25INDOOR",
+      "name": "Route25Indoor_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_BikeShop",
+      "border_filepath": "data/layouts/Route25Indoor/border.bin",
+      "blockdata_filepath": "data/layouts/Route25Indoor/map.bin"
+    },
+    {
+      "id": "LAYOUT_BILLS_GARDEN",
+      "name": "BillsGarden_Layout",
+      "width": 48,
+      "height": 37,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_BikeShop",
+      "border_filepath": "data/layouts/BillsGarden/border.bin",
+      "blockdata_filepath": "data/layouts/BillsGarden/map.bin"
+    },
+    {
+      "id": "LAYOUT_BILLS_MACHINE",
+      "name": "BillsMachine_Layout",
+      "width": 20,
+      "height": 6,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_CableClub",
+      "border_filepath": "data/layouts/BillsMachine/border.bin",
+      "blockdata_filepath": "data/layouts/BillsMachine/map.bin"
+    },
+    {
+      "id": "LAYOUT_FAR_OFF_CAVE",
+      "name": "FarOffCave_Layout",
+      "width": 34,
+      "height": 49,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/FarOffCave/border.bin",
+      "blockdata_filepath": "data/layouts/FarOffCave/map.bin"
+    },
+    {
+      "id": "LAYOUT_BILLS_HOUSE",
+      "name": "BillsHouse_Layout",
+      "width": 17,
+      "height": 22,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/BillsHouse/border.bin",
+      "blockdata_filepath": "data/layouts/BillsHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE104A",
+      "name": "Route104a_Layout",
+      "width": 40,
+      "height": 80,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/Route104a/border.bin",
+      "blockdata_filepath": "data/layouts/Route104a/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE115A",
+      "name": "Route115a_Layout",
+      "width": 40,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/Route115a/border.bin",
+      "blockdata_filepath": "data/layouts/Route115a/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE115B",
+      "name": "Route115b_Layout",
+      "width": 22,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fallarbor",
+      "border_filepath": "data/layouts/Route115b/border.bin",
+      "blockdata_filepath": "data/layouts/Route115b/map.bin"
     }
   ]
 }

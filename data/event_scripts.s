@@ -1690,3 +1690,25 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route98/scripts.inc"
 
 	.include "data/maps/LavenderTowerF1/scripts.inc"
+
+	.include "data/maps/VermilionTruck/scripts.inc"
+
+	.include "data/maps/SilverRoom/scripts.inc"
+
+	.include "data/maps/VioletGym1/scripts.inc"
+
+	.include "data/maps/Route25Indoor/scripts.inc"
+
+	.include "data/maps/BillsGarden/scripts.inc"
+
+	.include "data/maps/BillsMachine/scripts.inc"
+
+	.include "data/maps/FarOffCave/scripts.inc"
+
+	.include "data/maps/BillsHouse/scripts.inc"
+
+	.include "data/maps/Route104a/scripts.inc"
+
+	.include "data/maps/Route115a/scripts.inc"
+
+	.include "data/maps/Route115b/scripts.inc"

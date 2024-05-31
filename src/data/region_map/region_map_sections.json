@@ -1977,6 +1977,22 @@
       "height": 1
     },
     {
+      "map_section": "MAPSEC_BILLSGARDEN",
+      "name": "BILL'S GARDEN",
+      "x": 22,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_FAROFFCAVE",
+      "name": "FAR OFF CAVE",
+      "x": 22,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
       "map_section": "MAPSEC_TRAINER_HILL",
       "name": "TRAINER HILL",
       "x": 7,

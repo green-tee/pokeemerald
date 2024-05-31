@@ -6549,6 +6549,8 @@ u16 GetBattleBGM(void)
         return MUS_RG_VS_WILD;
        if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(PALLET_TOWN) && gSaveBlock1Ptr->location.mapNum == MAP_NUM(PALLET_TOWN))
         return MUS_RG_VS_WILD;
+       if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(BILLS_GARDEN) && gSaveBlock1Ptr->location.mapNum == MAP_NUM(BILLS_GARDEN))
+        return MUS_RG_VS_WILD;
        if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(ROUTE29) && gSaveBlock1Ptr->location.mapNum == MAP_NUM(ROUTE29))
         return JOHTOWILD;
        if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(ROUTE30) && gSaveBlock1Ptr->location.mapNum == MAP_NUM(ROUTE30))
@@ -6650,6 +6652,8 @@ u16 GetBattleBGM(void)
        if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(WHIRL_F3) && gSaveBlock1Ptr->location.mapNum == MAP_NUM(WHIRL_F3))
         return JOHTOWILD;
        if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(TOHJO_FALLS) && gSaveBlock1Ptr->location.mapNum == MAP_NUM(TOHJO_FALLS))
+        return JOHTOWILD;
+       if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(SLOWPOKEWELL) && gSaveBlock1Ptr->location.mapNum == MAP_NUM(SLOWPOKEWELL))
         return JOHTOWILD;
        if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(JOHTO_SAFARI_F1) && gSaveBlock1Ptr->location.mapNum == MAP_NUM(JOHTO_SAFARI_F1))
         return JOHTOWILD;

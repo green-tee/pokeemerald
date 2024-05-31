@@ -146,6 +146,7 @@ const struct CompressedSpriteSheet gTrainerFrontPicTable[] =
     TRAINER_SPRITE(LEADER_FLANNERY, gTrainerFrontPic_LeaderFlannery, TRAINER_PIC_SIZE),
     TRAINER_SPRITE(LEADER_NORMAN, gTrainerFrontPic_LeaderNorman, TRAINER_PIC_SIZE),
     TRAINER_SPRITE(LEADER_SURGE, gTrainerFrontPic_LeaderSurge, TRAINER_PIC_SIZE),
+    TRAINER_SPRITE(LEADER_FALKNER, gTrainerFrontPic_LeaderFalkner, TRAINER_PIC_SIZE),
     TRAINER_SPRITE(LEADER_WINONA, gTrainerFrontPic_LeaderWinona, TRAINER_PIC_SIZE),
     TRAINER_SPRITE(LEADER_TATE_AND_LIZA, gTrainerFrontPic_LeaderTateAndLiza, TRAINER_PIC_SIZE),
     TRAINER_SPRITE(LEADER_JUAN, gTrainerFrontPic_LeaderJuan, TRAINER_PIC_SIZE),

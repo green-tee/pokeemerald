@@ -596,6 +596,25 @@ static const struct MatchCallStructTrainer sSurgeMatchCallHeader =
     .textData = sSurgeTextScripts
 };
 
+static const match_call_text_data_t sFalknerTextScripts[] = {
+    { MatchCall_Text_Falkner1, 0xFFFE,              0xFFFF },
+    { MatchCall_Text_Falkner2, 0xFFFF,              0xFFFF },
+    { MatchCall_Text_Falkner3, 0xFFFF,              0xFFFF },
+    { MatchCall_Text_Falkner4, FLAG_SYS_GAME_CLEAR, 0xFFFF },
+    { NULL,                   0xFFFF,              0xFFFF }
+};
+
+static const struct MatchCallStructTrainer sFalknerMatchCallHeader =
+{
+    .type = MC_TYPE_LEADER,
+    .mapSec = MAPSEC_VIOLET,
+    .flag = FLAG_UNUSED_0x4B8,
+    .rematchTableIdx = REMATCH_FALKNER,
+    .desc = gText_FalknerMatchCallDesc,
+    .name = NULL,
+    .textData = sFalknerTextScripts
+};
+
 static const match_call_t sMatchCallHeaders[] = {
     [MC_HEADER_MR_STONE]   = {.npc    = &sMrStoneMatchCallHeader},
     [MC_HEADER_PROF_BIRCH] = {.birch  = &sProfBirchMatchCallHeader},

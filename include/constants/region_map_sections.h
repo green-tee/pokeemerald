@@ -249,7 +249,9 @@
 #define MAPSEC_JOHTO_ROCKET_HIDEOUT         0xF6
 #define MAPSEC_ROUTE_99                     0xF7
 #define MAPSEC_ROUTE_98                     0xF8
-#define MAPSEC_NONE                         0xF9
+#define MAPSEC_BILLSGARDEN                  0xF9
+#define MAPSEC_FAROFFCAVE                   0xFA
+#define MAPSEC_NONE                         0xFB
 
 
 #define METLOC_SPECIAL_EGG                  0xFD

@@ -20850,12 +20850,12 @@
               {
                 "min_level": 20,
                 "max_level": 25,
-                "species": "SPECIES_MILTANK"
+                "species": "SPECIES_FEAROW"
               },
               {
                 "min_level": 20,
                 "max_level": 25,
-                "species": "SPECIES_TAUROS"
+                "species": "SPECIES_STANTLER"
               },
               {
                 "min_level": 20,
@@ -25391,6 +25391,75 @@
                 "min_level": 21,
                 "max_level": 33,
                 "species": "SPECIES_CHANSEY"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_BILLS_GARDEN",
+          "base_label": "gBillsGarden0",
+          "land_mons": {
+            "encounter_rate": 10,
+            "mons": [
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_DODUO"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_EEVEE"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_DITTO"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_DODUO"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_EEVEE"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_EEVEE"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_DITTO"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_DODUO"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_VAPOREON"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_JOLTEON"
               }
             ]
           }

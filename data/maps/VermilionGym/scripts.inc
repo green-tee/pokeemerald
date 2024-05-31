@@ -56,7 +56,7 @@ VermilionGym_Text_BadgeInfo:
 	.string "A little word of advice, kid!\l"
 	.string "Electricity is sure powerful!\p"
 	.string "But, it's useless against\l"
-	.string "ground-type Pokémon!.$"
+	.string "ground-type Pokémon!$"
 
 VermilionGym_Text_RegisteredSurge:
 	.string "Registered GYM LEADER LT.SURGE\n"
@@ -87,10 +87,10 @@ VermilionGym_Text_SurgeRematchNeedTwoMons:
 	.string "Oh? You only have one POKéMON\n"
 	.string "that can battle.\p"
 	.string "I'm sorry, but I'd like you to come back\n"
-	.string "with at least two POKéMON.$"
+	.string "with at least two POKéMON$"
 
 VermilionGym_Text_SurgePostBattle:
 	.string "A little word of advice, kid!\l"
 	.string "Electricity is sure powerful!\p"
 	.string "But, it's useless against\l"
-	.string "ground-type Pokémon!.$"
+	.string "ground-type Pokémon!$"

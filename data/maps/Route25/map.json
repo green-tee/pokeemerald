@@ -17,6 +17,11 @@
       "map": "MAP_ROUTE24",
       "offset": 1,
       "direction": "down"
+    },
+    {
+      "map": "MAP_BILLS_GARDEN",
+      "offset": 67,
+      "direction": "up"
     }
   ],
   "object_events": [
@@ -61,7 +66,27 @@
     }
   ],
   "warp_events": [
-
+    {
+      "x": 96,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE25INDOOR",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 96,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE25INDOOR",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 128,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_FAR_OFF_CAVE",
+      "dest_warp_id": "1"
+    }
   ],
   "coord_events": [
 

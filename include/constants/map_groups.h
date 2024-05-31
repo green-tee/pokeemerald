@@ -68,6 +68,9 @@
 #define MAP_CROSSGATE_TOWN_HARBOR (59 | (0 << 8))
 #define MAP_ROUTE99               (60 | (0 << 8))
 #define MAP_ROUTE98               (61 | (0 << 8))
+#define MAP_ROUTE104A             (62 | (0 << 8))
+#define MAP_ROUTE115A             (63 | (0 << 8))
+#define MAP_ROUTE115B             (64 | (0 << 8))
 
 // gMapGroup_TownsAndRoutesKanto
 #define MAP_VERMILION_CITY  (0 | (1 << 8))
@@ -103,6 +106,7 @@
 #define MAP_ROUTE3          (30 | (1 << 8))
 #define MAP_ROUTE22         (31 | (1 << 8))
 #define MAP_PEWTER_CITY     (32 | (1 << 8))
+#define MAP_BILLS_GARDEN    (33 | (1 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 #define MAP_OLIVINE_CITY       (0 | (2 << 8))
@@ -273,6 +277,7 @@
 #define MAP_VIOLET_SCHOOL                    (14 | (10 << 8))
 #define MAP_VIOLET_INTERIORS                 (15 | (10 << 8))
 #define MAP_VIOLET_GYM                       (16 | (10 << 8))
+#define MAP_VIOLET_GYM1                      (17 | (10 << 8))
 
 // gMapGroup_IndoorSlateport
 #define MAP_SLATEPORT_CITY_STERNS_SHIPYARD_1F      (0 | (11 << 8))
@@ -317,6 +322,7 @@
 #define MAP_GOLDENROD_BIKE_SHOP                    (39 | (11 << 8))
 #define MAP_GOLDENROD_FLOWER_SHOP                  (40 | (11 << 8))
 #define MAP_GOLDENROD_INTERIORS                    (41 | (11 << 8))
+#define MAP_VERMILION_TRUCK                        (42 | (11 << 8))
 
 // gMapGroup_IndoorMauville
 #define MAP_MAUVILLE_CITY_GYM               (0 | (12 << 8))
@@ -478,6 +484,9 @@
 // gMapGroup_IndoorRoute104
 #define MAP_ROUTE104_MR_BRINEYS_HOUSE         (0 | (19 << 8))
 #define MAP_ROUTE104_PRETTY_PETAL_FLOWER_SHOP (1 | (19 << 8))
+#define MAP_ROUTE25INDOOR                     (2 | (19 << 8))
+#define MAP_BILLS_MACHINE                     (3 | (19 << 8))
+#define MAP_BILLS_HOUSE                       (4 | (19 << 8))
 
 // gMapGroup_IndoorRoute111
 #define MAP_ROUTE111_WINSTRATE_FAMILYS_HOUSE (0 | (20 << 8))
@@ -658,6 +667,8 @@
 #define MAP_ROCKET_HIDEOUT_F3           (41 | (27 << 8))
 #define MAP_ROCKET_HIDEOUT_F4           (42 | (27 << 8))
 #define MAP_LAVENDER_TOWER_F1           (43 | (27 << 8))
+#define MAP_SILVER_ROOM                 (44 | (27 << 8))
+#define MAP_FAR_OFF_CAVE                (45 | (27 << 8))
 
 // gMapGroup_DungeonsJohto
 #define MAP_MT_MORTAR_F1            (0 | (28 << 8))

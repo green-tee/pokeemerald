@@ -2918,6 +2918,7 @@ extern const u32 gTrainerFrontPic_LeaderWinona[];
 extern const u32 gTrainerFrontPic_LeaderTateAndLiza[];
 extern const u32 gTrainerFrontPic_LeaderJuan[];
 extern const u32 gTrainerFrontPic_LeaderSurge[];
+extern const u32 gTrainerFrontPic_LeaderFalkner[];
 extern const u32 gTrainerFrontPic_SchoolKidM[];
 extern const u32 gTrainerFrontPic_SchoolKidF[];
 extern const u32 gTrainerFrontPic_SrAndJr[];
